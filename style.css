@@ -1,0 +1,29 @@
+.buttonBox {
+    text-decoration: none;
+    color: black;
+    background-color: grey;
+}
+
+.topBar{
+    background-color: lightgray;
+}
+
+.customBorder {
+    border-color: gray;
+    border-width: 0px 1px 1px 1px;
+    border-style: solid;
+}
+
+.activeButton {
+    color: white;
+    background-color:darkslategray;
+    text-decoration: none;
+}
+
+.buttonBox:hover {
+    color:limegreen;
+}
+
+.displayNone {
+    display: none;
+}
